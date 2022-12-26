@@ -40,3 +40,7 @@ var myLaptop = true;
 var myApplePhone = false;
 console.log(myApplePhone);
 console.log(typeof myApplePhone);
+
+
+// 12.4
+var name = 'Hero Alom';
