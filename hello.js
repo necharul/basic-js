@@ -44,3 +44,5 @@ console.log(typeof myApplePhone);
 
 // 12.4
 var name = 'Hero Alom';
+Myneme = 'Hero Abdul';
+console.log(Myneme);
